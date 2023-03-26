@@ -1,6 +1,6 @@
-# <p align="center"> Made in Ghana </p>
+# <p align="center"> Made in Ghana :ghana: </p>
 
-A curated list of awesome tech folks from Ghana :ghana:
+A curated list of awesome tech folks from Ghana 
 
 # Cybersecurity
 - [Abigail Brianna Dede Okley](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94/) - Risk and Assessment || Vulnerability Management
