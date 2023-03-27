@@ -25,6 +25,7 @@ A curated list of awesome tech folks from Ghana
 - [Emmanuel Gadasu](https://www.linkedin.com/in/emmanuelgadasu) - Data Privacy Consultant
 - [Aaron Felix](https://www.linkedin.com/in/aaron-felix-8ba58a76/) - Cybersecurity Policy Analyst
 - [Jacqueline Hanson Kotei](https://www.linkedin.com/in/jacqueihk/) - GRC and Information Security
+- [Dickson Kofi Edem Agbemazi](https:///www.linkedin/in/dicksonagbemazi/) - Cybersecurity Analyst
 
 
 
