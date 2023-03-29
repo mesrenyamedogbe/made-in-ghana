@@ -25,6 +25,10 @@ A curated list of awesome tech folks from Ghana
 - [Senyo Hadzor](https://www.linkedin.com/in/senyohadzor/) - Security Architect
 - [Sylvia Worlali Azumah](https://www.linkedin.com/in/sylvia-worlali-azumah-81a246158/) - Cyber Threat Intelligence and Hunting
 - [Viola Adams](https://www.linkedin.com/in/viola-adams/) - Digital Forensic Analyst
+- [Vanessa Ampofo Onyina](https://www.linkedin.com/in/vanessa-ampofo-onyina-80a952185/) - Cybersecurity Analyst
+- [Faiza Seidu-Adam](https://www.linkedin.com/in/faiza-seidu-adam-591261132/) - Internal Security Auditor and GRC Analyst 
+- [James Obeng](https://www.linkedin.com/in/james-obeng-98697a171/) - Cybersecurity and SOC Analyst
+ 
 
 
 
