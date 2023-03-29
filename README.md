@@ -9,9 +9,11 @@ A curated list of awesome tech folks from Ghana
 - [Adam Nurudini](https://www.linkedin.com/in/adamnurudini/) - SOC || Bounty Hunting || Threat Hunting || Trainer || Penetration Testing
 - [Albert Tetteh](https://www.linkedin.com/in/albert-tetteh-76424676/) - Information Security Risk
 - [Arnold Kyei-Baffour](https://www.linkedin.com/in/arnold-kyei-baffour-93453811b/) - Penetration Testing
+- [Audrey Mnisi](https://www.linkedin.com/in/audrey-mnisi-7a52b595/) - Risk and Cybersecurity Executive || WiCyS West Africa Affiliate Vice President
 - [Daniel Kwaku Ntiamoah Addai](https://www.linkedin.com/in/daniel-kwaku-ntiamoah-addai-a70448138/) - SOC || IR
 - [Dennis Adom Quarshie](https://www.linkedin.com/in/dennis-adom-quashie-2ab72b125/) - Information Security Analyst & Incident Responder
 - [Derrick Ayitey](https://www.linkedin.com/in/derrick-ayitey-a7ab17222/) - Malware Analyst || Threat Hunter
+- [Desmond Israel](https://www.linkedin.com/in/desmondisrael/) - Information Security || Researcher || Adjunct Lecturer
 - [Emmanuel Gadasu](https://www.linkedin.com/in/emmanuelgadasu) - Data Privacy Consultant
 - [Emmanuel Mawuli Lagoh](https://www.linkedin.com/in/emmanuel-mawuli-lagoh-137a24b2/) - Cybersecurity Analyst
 - [Emmanuel Tettey](https://www.linkedin.com/in/emmanuel-tettey-102961187/) - SOC || Digital Forensic || Incident Responder
@@ -30,7 +32,9 @@ A curated list of awesome tech folks from Ghana
 - [Manuela Korleki Ayertey](https://www.linkedin.com/in/manuela-korleki-ayertey-729740190/) - Senior Security Operations Center Analyst
 - [Newman Mortey](https://www.linkedin.com/in/newman-mortey/) - Security Engineer
 - [Norvisi Addo](https://www.linkedin.com/in/norvisiaddo/) - Chief Information Security Officer and Manager
+- [Olayinka Naa Dzama Wilson-Kofi](https://www.linkedin.com/in/olayinka-naa-dzama-wilson-kofi-08a4aa7/) - Information Security and Privacy Specialist
 - [Prince Acheampong](https://www.linkedin.com/in/prince-acheampong-85b495186/) - Cybersecurity Researcher
+- [Prince Paa Kwesi Essandoh](https://www.linkedin.com/in/princepaakwesiessandoh/) - Information Security || Data Privacy
 - [Prudence Attablayo](https://www.linkedin.com/in/prudence-attablayo/) - Offensive security
 - [Richmond Bentil](https://www.linkedin.com/in/richmondbentil/) - Cybersecurity Engineer
 - [Robert Ofoli Kwei](https://www.linkedin.com/in/robert-ofoli-kwei/) - SOC Analyst || Penetration Testing
