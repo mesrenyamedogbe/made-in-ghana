@@ -14,17 +14,22 @@ A curated list of awesome tech folks from Ghana
 - [Dennis Adom Quarshie](https://www.linkedin.com/in/dennis-adom-quashie-2ab72b125/) - Information Security Analyst & Incident Responder
 - [Derrick Ayitey](https://www.linkedin.com/in/derrick-ayitey-a7ab17222/) - Malware Analyst || Threat Hunter
 - [Desmond Israel](https://www.linkedin.com/in/desmondisrael/) - Information Security || Researcher || Adjunct Lecturer
+- [Emmanuel Bamfo Dickson](https://www.linkedin.com/in/dicksonemma/) - Chief Information Security Officer || Executive Member, CyberEdBoard Community
 - [Emmanuel Gadasu](https://www.linkedin.com/in/emmanuelgadasu) - Data Privacy Consultant
 - [Emmanuel Mawuli Lagoh](https://www.linkedin.com/in/emmanuel-mawuli-lagoh-137a24b2/) - Cybersecurity Analyst
 - [Emmanuel Tettey](https://www.linkedin.com/in/emmanuel-tettey-102961187/) - SOC || Digital Forensic || Incident Responder
 - [Eric Biako](https://www.linkedin.com/in/eric-biako-250657105/) - Threat Hunting
 - [Eric Nii Sowah Badger](https://www.linkedin.com/in/ericsowahbadger/) - Application Security || Penetration Testing || Threat Hunting
 - [Faiza Seidu-Adam](https://www.linkedin.com/in/faiza-seidu-adam-591261132/) - GRC || Information Security and Privacy
+- [Francis Holmes Sougoulimpo Danaye](https://www.linkedin.com/in/francis-holmes-sougoulimpo-danaye-351877100/) - Cybersecurity Professional
 - [Gervin Appiah](https://www.linkedin.com/in/gervin-appiah-03aa3630/) - Offensive Security
+- [Gideon Ackney](https://www.linkedin.com/in/gideon-ackney-6a34701b8/) - Cybersecurity Specialist
+- [Gordon Fiifi Donkoh](https://www.linkedin.com/in/fiifigordon/) - Information Security Officer and Consultant
 - [Isaac Nyame Oppong](https://www.linkedin.com/in/isaac-nyame-oppong/) - Data/Cloud security
 - [Isaac Oppong-Amoah](https://www.linkedin.com/in/isaac-oppong-amoah-4645b01b8/) - Cybersecurity Engineer
 - [Jacqueline Hanson Kotei](https://www.linkedin.com/in/jacqueihk/) - GRC and Information Security
 - [James Obeng](https://www.linkedin.com/in/james-obeng-98697a171/) - Cybersecurity and SOC Analyst
+- [Jim Adjei-Wiredu](https://www.linkedin.com/in/jim-adjei-wiredu-922692100/) - SOC Analyst || Threat and Vulnerability Management
 - [Joseph Atta Yeboah](https://www.linkedin.com/in/josephyeboah2/) - Cybersecurity Analyst
 - [Joseph Selasi Keteku](https://www.linkedin.com/in/joseph-keteku-25054853/) - IT Security
 - [Joshua Offe Berkoh](https://www.linkedin.com/in/joshfiifi/) - SOC || Red Team
