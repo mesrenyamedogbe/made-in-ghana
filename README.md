@@ -5,6 +5,7 @@ A curated list of awesome tech folks from Ghana
 # Cybersecurity
 - [Aaron Felix](https://www.linkedin.com/in/aaron-felix-8ba58a76/) - Cybersecurity Policy Analyst
 - [Abigail Brianna Dede Okley](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94/) - Risk and Assessment || Vulnerability Management
+- [Abigail Lokko](https://www.linkedin.com/in/abigail-lokko-4178741b6) -  Cybersecurity Analyst
 - [Abu Safian Blay](https://www.linkedin.com/in/abu-safian-blay/) - Founder at Inveteck Global || Certified Red Team Specialist
 - [Adam Nurudini](https://www.linkedin.com/in/adamnurudini/) - SOC || Bounty Hunting || Threat Hunting || Trainer || Penetration Testing
 - [Albert Tetteh](https://www.linkedin.com/in/albert-tetteh-76424676/) - Information Security Risk
@@ -12,8 +13,10 @@ A curated list of awesome tech folks from Ghana
 - [Audrey Mnisi](https://www.linkedin.com/in/audrey-mnisi-7a52b595/) - Risk and Cybersecurity Executive || WiCyS West Africa Affiliate Vice President
 - [Daniel Kwaku Ntiamoah Addai](https://www.linkedin.com/in/daniel-kwaku-ntiamoah-addai-a70448138/) - SOC || IR
 - [Dennis Adom Quarshie](https://www.linkedin.com/in/dennis-adom-quashie-2ab72b125/) - Information Security Analyst & Incident Responder
+- [Derrick Agbemazi](https://www.linkedin.com/in/dagbemazi) - Security Engineer
 - [Derrick Ayitey](https://www.linkedin.com/in/derrick-ayitey-a7ab17222/) - Malware Analyst || Threat Hunter
 - [Desmond Israel](https://www.linkedin.com/in/desmondisrael/) - Information Security || Researcher || Adjunct Lecturer
+- [Dickson Agbemazi](https://www.linkedin.com/in/dicksonagbemazi) - Cybersecurity Analyst
 - [Emmanuel Bamfo Dickson](https://www.linkedin.com/in/dicksonemma/) - Chief Information Security Officer || Executive Member, CyberEdBoard Community
 - [Emmanuel Gadasu](https://www.linkedin.com/in/emmanuelgadasu) - Data Privacy Consultant
 - [Emmanuel Mawuli Lagoh](https://www.linkedin.com/in/emmanuel-mawuli-lagoh-137a24b2/) - Cybersecurity Analyst
