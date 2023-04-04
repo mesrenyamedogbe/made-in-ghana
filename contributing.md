@@ -6,7 +6,7 @@ Before making a pull request, please make sure of the following:
 - Check the spelling of the name
 - Make sure you provide a social media url of the person
 - Links must be pointing straight to the person's profile
-- Make an effort to add the name to the relevant alphabetical spot
-
+- Make an effort to add the name to the relevant alphabetical sp
 
 Thank you! If you think there is anything to improve with the guideline, please contact me at mesrenyame12@gmail.com
+Bernard Appiah -https://www.linkedin.com/in/bernard-appiah-a0025a234
