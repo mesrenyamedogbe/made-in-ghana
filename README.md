@@ -62,6 +62,7 @@ A curated list of awesome tech folks from Ghana
 
 # Data Science
 - [Aseda Addai-Desseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
+- [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
