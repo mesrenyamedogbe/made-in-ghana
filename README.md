@@ -60,7 +60,11 @@ A curated list of awesome tech folks from Ghana
 - [Viola Adams](https://www.linkedin.com/in/viola-adams/) - Digital Forensic Analyst
 
 
-
+# Data Science
+- [Aseda Addai-Desseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
+- [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
+- [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
+- [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
 
 
 
