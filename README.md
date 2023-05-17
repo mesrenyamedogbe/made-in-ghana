@@ -70,6 +70,7 @@ A curated list of awesome tech folks from Ghana
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
 - [Kwadwo Agyapon-Ntra](https://gh.linkedin.com/in/kwadwo-agyapon-ntra) - Data Engineer
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
+- [Hisham Osman](https://www.linkedin.com/in/osmanhisham/) - Data Engineer
 
 
 
