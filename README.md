@@ -75,7 +75,12 @@ A curated list of awesome tech folks from Ghana
 # UI || UX || Product Design
 - [Derrick Amenuveve](https://www.derrickamenuve.com/) - UX Designer
 - [Eldad Nutakor](https://www.linkedin.com/in/eldad-nutakor/) - Founder || Design Lead
+- [Georgina Sekyi](https://www.linkedin.com/in/georgina-sekyi/) - UI/UX Designer
+- [Harriet Okai](https://www.linkedin.com/in/harriet-okai-b89677144/) - UI/UX Designer
 - [Kelvin Akapko](https://www.linkedin.com/in/kelvin-akakpo-613050172/) - UX Designer
+- [Reagan Marfo](https://www.linkedin.com/in/reaganmarfo/) - UI/UX Designer
+- [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
+
 
 
 
