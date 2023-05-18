@@ -72,6 +72,11 @@ A curated list of awesome tech folks from Ghana
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
 
 
+# UI || UX || Product Design
+- [Derrick Amenuveve](https://www.derrickamenuve.com/) - UX Designer
+- [Eldad Nutakor](https://www.linkedin.com/in/eldad-nutakor/) - Founder || Design Lead
+- [Kelvin Akapko](https://www.linkedin.com/in/kelvin-akakpo-613050172/) - UX Designer
+
 
 
 
