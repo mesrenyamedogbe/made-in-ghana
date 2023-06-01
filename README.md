@@ -1,6 +1,6 @@
 # <p align="center"> Made in Ghana :ghana: </p>
 
-A curated list of awesome tech folks from Ghana 
+A curated awesome list of tech folks, resources, communities and more from Ghana 
 
 # Cybersecurity
 - [Aaron Felix](https://www.linkedin.com/in/aaron-felix-8ba58a76/) - Cybersecurity Policy Analyst
