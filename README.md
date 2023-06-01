@@ -2,6 +2,19 @@
 
 A curated awesome list of tech folks, resources, communities and more from Ghana 
 
+# Communities
+
+| Name of Community | Website/LinkedIn/Meetup | Twitter | Join the community |
+| ----------------- | ------- | ------- | ------------------ |
+| AWS Accra | | https://twitter.com/awsaccra |
+| Because She Can | https://www.becauseshecan.tech/ | https://twitter.com/becauseshecan_ | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
+| DevCongress | http://www.devcongress.org/ | https://twitter.com/DevCongress | http://join.devcongress.org |
+| Developers in Vogue | https://developersinvogue.org/ | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
+| Divaloper | https://www.linkedin.com/company/divaloper/?originalSubdomain=gh | https://twitter.com/Divaloper1 |  |
+| Friends of Figma, Accra | https://bento.me/fofaccra | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
+| For Loop | | https://twitter.com/forLoopGhana | |
+| Google Developer Group Accra | https://gdg.community.dev/gdg-accra/ | https://twitter.com/GDGAccra | |
+
 # Cybersecurity
 - [Aaron Felix](https://www.linkedin.com/in/aaron-felix-8ba58a76/) - Cybersecurity Policy Analyst
 - [Abigail Brianna Dede Okley](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94/) - Risk and Assessment || Vulnerability Management
@@ -82,6 +95,9 @@ A curated awesome list of tech folks, resources, communities and more from Ghana
 - [Reagan Marfo](https://www.linkedin.com/in/reaganmarfo/) - UI/UX Designer
 - [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
+
+
+
 
 
 
