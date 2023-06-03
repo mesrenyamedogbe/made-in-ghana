@@ -18,7 +18,9 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 | PyData Ghana | https://www.meetup.com/pydata-ghana/ | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
 | Python Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | PyLadies Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
-| Women in Machine Learning and Data Science| https://www.meetup.com/accra-women-in-machine-learning-data-science/ | https://twitter.com/WiMLDS_Accra 
+| Women in Machine Learning and Data Science| https://www.meetup.com/accra-women-in-machine-learning-data-science/ | https://twitter.com/WiMLDS_Accra  | |
+| Google Developer Group Kumasi | https://gdg.community.dev/gdg-kumasi/ | https://twitter.com/gdgkumasi | |
+| Flutter Ghana | https://www.flutterghana.dev/#/ | https://twitter.com/Flutter_Ghana | https://t.co/C7uOGxUPeK |
 | |
 
 
@@ -103,7 +105,10 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 - [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
 
-
+# Software Engineer 
+- [Benson Osei-Mensah](https://linkedin.com/in/bensonoseimensah) - Full Stack (Web) Developer
+- [Gideon Salami](https://twitter.com/gideonsalamii) - Flutter Developer
+- [Paul Boamah](https://twitter.com/LoopTeam3) - Flutter | Angular
 
 
 
