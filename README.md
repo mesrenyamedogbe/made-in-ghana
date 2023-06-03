@@ -5,7 +5,7 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 # Communities
 
 | Name of Community | Website/LinkedIn/Meetup | Twitter | Join the community |
-| ----------------- | ------- | ------- | ------------------ |
+| ----------------------- | ------- | ------- | ------------------ |
 | AWS Accra | | https://twitter.com/awsaccra |
 | Because She Can | https://www.becauseshecan.tech/ | https://twitter.com/becauseshecan_ | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
 | DevCongress |  | https://twitter.com/DevCongress | http://join.devcongress.org |
@@ -18,6 +18,8 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 | PyData Ghana | https://www.meetup.com/pydata-ghana/ | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
 | Python Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | PyLadies Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
+| Women in Machine Learning and Data Science| https://www.meetup.com/accra-women-in-machine-learning-data-science/ | https://twitter.com/WiMLDS_Accra 
+| |
 
 
 # Cybersecurity
