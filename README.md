@@ -66,6 +66,7 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 - [Prudence Attablayo](https://www.linkedin.com/in/prudence-attablayo/) - Offensive security
 - [Richmond Bentil](https://www.linkedin.com/in/richmondbentil/) - Cybersecurity Engineer
 - [Robert Ofoli Kwei](https://www.linkedin.com/in/robert-ofoli-kwei/) - SOC Analyst || Penetration Testing
+- [Robert Wevamwo](https://www.linkedin.com/in/wevbert/) - Cybersecurity Analyst
 - [Roger Akrong](https://www.linkedin.com/in/roger-akrong-b3853688/) - Chief Information Security Officer
 - [Samuel Sarfo](https://www.linkedin.com/in/samuel-sarfo-k-85ab5080/) - Info Sec Risk Management
 - [Samuel Teming-Amoako](https://www.linkedin.com/in/samuel-teming-amoako-337aa6109/) - SOC
