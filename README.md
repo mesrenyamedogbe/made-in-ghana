@@ -20,8 +20,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | PyData Ghana | https://www.meetup.com/pydata-ghana/ | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
 | Python Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | PyLadies Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
-| Women in Machine Learning and Data Science| https://www.meetup.com/accra-women-in-machine-learning-data-science/ | https://twitter.com/WiMLDS_Accra 
-| |
+| Women in Machine Learning and Data Science| https://www.meetup.com/accra-women-in-machine-learning-data-science/ | https://twitter.com/WiMLDS_Accra |  |
 
 
 # Cybersecurity
@@ -88,11 +87,20 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
+- [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - Coursera Project Instructor || Co-Founder roboMUA
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
 - [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
 - [Kwadwo Agyapon-Ntra](https://gh.linkedin.com/in/kwadwo-agyapon-ntra) - Data Engineer
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
+
+
+# DevOps
+
+
+
+# Mobile Development
+
 
 
 # UI || UX || Product Design
@@ -105,6 +113,17 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Reagan Marfo](https://www.linkedin.com/in/reaganmarfo/) - UI/UX Designer
 - [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
+
+
+# Project || Product || Program Management
+- [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
+- [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
+- [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+
+
+
+# Web Development
+
 
 
 
