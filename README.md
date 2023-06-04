@@ -1,6 +1,8 @@
 # <p align="center"> Made in Ghana :ghana: </p>
 
-A curated awesome list of tech folks, resources, communities and more by Ghanaians. 
+A curated awesome list of tech folks, resources, communities and more by Ghanaians.
+
+If you are interested in contributing, kindly read the [contribution guideline](https://github.com/mesrenyamedogbe/made-in-ghana/blob/main/contributing.md).
 
 # Communities
 
