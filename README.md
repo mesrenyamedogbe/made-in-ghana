@@ -96,10 +96,37 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 # DevOps
+- [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/)
+- [Saviour Gidi](https://www.linkedin.com/in/saviour123/) 
+
+
+
+# Game Development
+
+
+# IT Policy
 
 
 
 # Mobile Development
+
+
+# Network Engineering
+
+
+
+# Project || Product || Program Management
+- [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
+- [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
+- [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+
+
+# Q/A || Software Testing
+- [Adea Natchiah-Blay](https://www.linkedin.com/in/adea-natchiah-blay-797a93116/) - QA Engineer
+- [Paa Jake](https://www.linkedin.com/in/paajake/) - Test Engineer
+
+
+# Tech Law
 
 
 
@@ -115,18 +142,14 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
 
 
-# Project || Product || Program Management
-- [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
-- [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
-- [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+
+# Web Development (Frontend || Backend || Fullstack)
 
 
-
-# Web Development
-
-
-
-
+# Youtube
+- [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
+- [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
+- [TechChef Africa](https://www.youtube.com/@techchefafrica9323) by Nana Efua Benyaw
 
 
 
