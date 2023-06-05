@@ -4,7 +4,8 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 
 If you are interested in contributing, kindly read the [contribution guideline](https://github.com/mesrenyamedogbe/made-in-ghana/blob/main/contributing.md).
 
-# Communities
+<details open>
+ <summary><h1>Communities</h1></summary>
 
 | Name of Community | Website/LinkedIn/Meetup | Twitter | Join the community |
 | ----------------------- | ------- | ------- | ------------------ |
@@ -21,9 +22,12 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | Python Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | PyLadies Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
 | Women in Machine Learning and Data Science| https://www.meetup.com/accra-women-in-machine-learning-data-science/ | https://twitter.com/WiMLDS_Accra |  |
+</details>
 
 
-# Cybersecurity
+<details open>
+ <summary><h1>Cybersecurity</h1></summary>
+ 
 - [Aaron Felix](https://www.linkedin.com/in/aaron-felix-8ba58a76/) - Cybersecurity Policy Analyst
 - [Abigail Brianna Dede Okley](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94/) - Risk and Assessment || Vulnerability Management
 - [Abigail Lokko](https://www.linkedin.com/in/abigail-lokko-4178741b6) -  Cybersecurity Analyst
@@ -80,9 +84,12 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Vanessa Ampofo Onyina](https://www.linkedin.com/in/vanessa-ampofo-onyina-80a952185/) - Cybersecurity Analyst
 - [Victor Scott Mallet](https://www.linkedin.com/in/victor-scott-mallet-0539bb9b/) - Cybersecurity Analyst
 - [Viola Adams](https://www.linkedin.com/in/viola-adams/) - Digital Forensic Analyst
+</details>
 
 
-# Data Science
+<details open>
+ <summary><h1>Data Science</h1></summary>
+ 
 - [Aseda Addai-Desseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
@@ -91,46 +98,69 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
 - [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
-- [Kwadwo Agyapon-Ntra](https://gh.linkedin.com/in/kwadwo-agyapon-ntra) - Data Engineer
+- [Kwadwo Agyapon-Ntra](https://gh.linkedin.com/in/kwadwo-agyapon-ntra) - AI/ML, Data Science and Engineering
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
+</details>
 
 
-# DevOps
+<details open>
+ <summary><h1>DevOps</h1></summary>
+ 
 - [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/)
 - [Saviour Gidi](https://www.linkedin.com/in/saviour123/) 
+</details>
 
 
-
-# Game Development
-
-
-# IT Policy
-
+<details open>
+ <summary><h1>Game Development</h1></summary>
+ 
+</details>
 
 
-# Mobile Development
+<details open>
+ <summary><h1>IT Policy</h1></summary>
+
+</details>
 
 
-# Network Engineering
+<details open>
+ <summary><h1>IMobile Development</h1></summary>
+
+</details>
 
 
+<details open>
+ <summary><h1>Network Engineering</h1></summary>
 
-# Project || Product || Program Management
+</details>
+
+
+<details open>
+ <summary><h1>Project || Product || Program Management</h1></summary>
+ 
 - [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
 - [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
 - [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+</details>
 
 
-# Q/A || Software Testing
+<details open>
+ <summary><h1>Q/A || Software Testing</h1></summary>
+ 
 - [Adea Natchiah-Blay](https://www.linkedin.com/in/adea-natchiah-blay-797a93116/) - QA Engineer
 - [Paa Jake](https://www.linkedin.com/in/paajake/) - Test Engineer
+</details>
 
 
-# Tech Law
+<details open>
+ <summary><h1>Tech Law</h1></summary>
+
+</details>
 
 
-
-# UI || UX || Product Design
+<details open>
+ <summary><h1>UI || UX || Product Design</h1></summary>
+ 
 - [Derrick Amenuveve](https://www.derrickamenuve.com/) - UX Designer
 - [Derrick Tsorme](https://www.linkedin.com/in/tsormed/) - Product Designer
 - [Eldad Nutakor](https://www.linkedin.com/in/eldad-nutakor/) - Founder || Design Lead
@@ -140,46 +170,19 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Reagan Marfo](https://www.linkedin.com/in/reaganmarfo/) - UI/UX Designer
 - [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
+</details>
 
 
+<details open>
+ <summary><h1>Web Development (Frontend || Backend || Fullstack)</h1></summary>
+ 
+</details>
 
-# Web Development (Frontend || Backend || Fullstack)
 
-
-# Youtube
+<details open>
+ <summary><h1>Youtube</h1></summary>
+ 
 - [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
 - [TechChef Africa](https://www.youtube.com/@techchefafrica9323) by Nana Efua Benyaw
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</details>
