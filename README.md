@@ -175,7 +175,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Web Development (Frontend || Backend || Fullstack)</h1></summary>
+ <summary><h1>Web Development</h1></summary>
  
 </details>
 
