@@ -95,6 +95,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
 - [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - Coursera Project Instructor || Co-Founder roboMUA
+- [Esther Doku Mensah](https://www.linkedin.com/in/esther-mensah/) - Data Analyst
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
 - [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
