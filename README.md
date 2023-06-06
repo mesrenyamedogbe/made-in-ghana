@@ -187,3 +187,11 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
 - [TechChef Africa](https://www.youtube.com/@techchefafrica9323) by Nana Efua Benyaw
 </details>
+
+
+<details open>
+ <summary><h1>Additional Resources</h1></summary>
+ 
+- [Cybersecurity Resources](https://github.com/worhlali/CyberSec-Resources) by Sylvia Worlali Azumah
+ 
+ </details>
