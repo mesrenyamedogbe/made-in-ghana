@@ -114,9 +114,10 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h1>DevOps || SRE</h1></summary>
  
+- [Edward Owusu-Adjei](https://www.linkedin.com/in/edward-owusu-adjei-2281ba159/) - Senior Site Reliability Engineer 
 - [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/) - DevOps Engineer
 - [Saviour Gidi](https://www.linkedin.com/in/saviour123/) - DevOps Engineer
-- [Edward Owusu-Adjei](https://www.linkedin.com/in/edward-owusu-adjei-2281ba159/) - Senior Site Reliability Engineer
+ 
 </details>
 
 
