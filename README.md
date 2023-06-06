@@ -112,7 +112,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>DevOps and SRE</h1></summary>
+ <summary><h1>DevOps || SRE</h1></summary>
  
 - [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/) - DevOps Engineer
 - [Saviour Gidi](https://www.linkedin.com/in/saviour123/) - DevOps Engineer
