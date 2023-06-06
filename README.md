@@ -93,6 +93,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
 - [Kwadwo Agyapon-Ntra](https://gh.linkedin.com/in/kwadwo-agyapon-ntra) - Data Engineer
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
+- [Mercy Asiedu Ph.D.](https://www.mercyasiedu.com/) - Research Scientist
 
 
 # DevOps
