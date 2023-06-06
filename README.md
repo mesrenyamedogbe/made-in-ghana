@@ -94,6 +94,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
+- [Delanyo Kobla Nyamadi](https://www.linkedin.com/in/delanyo-nyamadi-69220284) - Data Scientist
 - [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - Coursera Project Instructor || Co-Founder roboMUA
 - [Esther Doku Mensah](https://www.linkedin.com/in/esther-mensah/) - Data Analyst
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
