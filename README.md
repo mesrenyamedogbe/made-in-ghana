@@ -105,11 +105,20 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>DevOps</h1></summary>
- 
-- [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/)
-- [Saviour Gidi](https://www.linkedin.com/in/saviour123/) 
+ <summary><h1>Database Administration</h1></summary>
+
 </details>
+
+
+
+<details open>
+ <summary><h1>DevOps and SRE</h1></summary>
+ 
+- [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/) - DevOps Engineer
+- [Saviour Gidi](https://www.linkedin.com/in/saviour123/) - DevOps Engineer
+- [Edward Owusu-Adjei](https://www.linkedin.com/in/edward-owusu-adjei-2281ba159/) - Senior Site Reliability Engineer
+</details>
+
 
 
 <details open>
@@ -118,14 +127,16 @@ If you are interested in contributing, kindly read the [contribution guideline](
 </details>
 
 
+
 <details open>
  <summary><h1>IT Policy</h1></summary>
 
 </details>
 
 
+
 <details open>
- <summary><h1>IMobile Development</h1></summary>
+ <summary><h1>Mobile Development</h1></summary>
 
 </details>
 
