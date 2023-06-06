@@ -154,6 +154,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
 - [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
 - [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+- [Yaa Nuamah Kusi-Fordjour](https://www.linkedin.com/in/yaanuamah/) - Technical Product Manager
 </details>
 
 
