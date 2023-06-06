@@ -7,21 +7,21 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h1>Communities</h1></summary>
 
-| Name of Community | Website/LinkedIn/Meetup | Twitter | Join the community |
-| ----------------------- | ------- | ------- | ------------------ |
-| AWS Accra | | https://twitter.com/awsaccra |
-| Because She Can | https://www.becauseshecan.tech/ | https://twitter.com/becauseshecan_ | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
-| DevCongress |  | https://twitter.com/DevCongress | http://join.devcongress.org |
-| Developers in Vogue | https://developersinvogue.org/ | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
-| Divaloper | https://www.linkedin.com/company/divaloper/?originalSubdomain=gh | https://twitter.com/Divaloper1 |  |
-| Friends of Figma, Accra | https://bento.me/fofaccra | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
+| Name of Community| Twitter | Join the community |
+| ----------------------- | ------- | ------------------ |
+| [AWS Accra](https://twitter.com/awsaccra) | https://twitter.com/awsaccra | |
+| [Because She Can](htthttps://www.becauseshecan.tech) | https://twitter.com/becauseshecan_ | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
+| [DevCongress](https://twitter.com/DevCongress) | https://twitter.com/DevCongress | http://join.devcongress.org |
+| [Developers in Vogue](https://developersinvogue.org/) | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
+| [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh) | https://twitter.com/Divaloper1 |  |
+| [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
 | For Loop | | https://twitter.com/forLoopGhana | |
-| Google Developer Group Accra | https://gdg.community.dev/gdg-accra/ | https://twitter.com/GDGAccra | |
-| Notion Ghana |  | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
-| PyData Ghana | https://www.meetup.com/pydata-ghana/ | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
-| Python Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyGhana | https://t.me/PyGhana |
-| PyLadies Ghana | https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
-| Women in Machine Learning and Data Science| https://www.meetup.com/accra-women-in-machine-learning-data-science/ | https://twitter.com/WiMLDS_Accra |  |
+| [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
+| Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
+| [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
+| [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyGhana | https://t.me/PyGhana |
+| [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
+| [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |  |
 </details>
 
 
