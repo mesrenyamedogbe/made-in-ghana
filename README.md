@@ -133,6 +133,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 <details open>
  <summary><h1>IT Policy</h1></summary>
+ 
 - [Lily Edinam Botsyoe](https://www.linkedin.com/in/lily-botsyoe/) - IT Policy Analyst
 
 </details>
