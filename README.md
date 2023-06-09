@@ -143,6 +143,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h1>Mobile Development</h1></summary>
 
+ - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
 </details>
 
 
@@ -195,6 +196,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h1>Web Development</h1></summary>
  
+ - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
 </details>
 
 
