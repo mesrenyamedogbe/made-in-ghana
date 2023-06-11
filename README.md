@@ -190,6 +190,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Reagan Marfo](https://www.linkedin.com/in/reaganmarfo/) - UI/UX Designer
 - [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
+- [Ephraim Abstaina](https://www.linkedin.com/in/ephraim-a-1a8204a8/) Blockchain Developer || Front End Engineer
 </details>
 
 
@@ -214,4 +215,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
 - [Cybersecurity Resources](https://github.com/worhlali/CyberSec-Resources) by Sylvia Worlali Azumah
  
- </details>
+ </details> 
+ 
+
+ 
+ 
