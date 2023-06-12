@@ -190,6 +190,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Reagan Marfo](https://www.linkedin.com/in/reaganmarfo/) - UI/UX Designer
 - [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
+
 </details>
 
 
@@ -197,8 +198,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h1>Web Development</h1></summary>
  
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
-</details>
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
+
 </details>
 
 
