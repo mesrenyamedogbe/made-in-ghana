@@ -15,7 +15,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [Developers in Vogue](https://developersinvogue.org/) | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
 | [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh) | https://twitter.com/Divaloper1 |  |
 | [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
-| For Loop | | https://twitter.com/forLoopGhana | |
+| For Loop | https://twitter.com/forLoopGhana |  |
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
 | Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
 | [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
