@@ -156,9 +156,11 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h1>Project || Product || Program Management</h1></summary>
  
+- [David Masoperh](https://www.linkedin.com/in/david-masoperh-71052b174/) - Product Manager
 - [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
 - [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
 - [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+- [Wendy Essuman](https://www.linkedin.com/in/wendy-essuman-085ba6173/) - Project/Product Manager
 - [Yaa Nuamah Kusi-Fordjour](https://www.linkedin.com/in/yaanuamah/) - Technical Product Manager
 </details>
 
