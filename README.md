@@ -5,7 +5,7 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 If you are interested in contributing, kindly read the [contribution guideline](https://github.com/mesrenyamedogbe/made-in-ghana/blob/main/contributing.md).
 
 <details open>
- <summary><h1>Communities</h1></summary>
+ <summary><h2>Communities</h2></summary>
 
 | Name of Community| Twitter | Join the community |
 | ----------------------- | ------- | ------------------ |
@@ -26,7 +26,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Cybersecurity</h1></summary>
+ <summary><h2>Cybersecurity</h2></summary>
  
 - [Aaron Felix](https://www.linkedin.com/in/aaron-felix-8ba58a76/) - Cybersecurity Policy Analyst
 - [Abigail Brianna Dede Okley](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94/) - Risk and Assessment || Vulnerability Management
@@ -88,7 +88,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Data Science</h1></summary>
+ <summary><h2>Data Science</h2></summary>
  
 - [Aseda Addai-Deseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
@@ -107,14 +107,14 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Database Administration</h1></summary>
+ <summary><h2>Database Administration</h2></summary>
 
 </details>
 
 
 
 <details open>
- <summary><h1>DevOps || SRE</h1></summary>
+ <summary><h2>DevOps || SRE</h2></summary>
  
 - [Edward Owusu-Adjei](https://www.linkedin.com/in/edward-owusu-adjei-2281ba159/) - Senior Site Reliability Engineer 
 - [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/) - DevOps Engineer
@@ -125,14 +125,14 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Game Development</h1></summary>
+ <summary><h2>Game Development</h2></summary>
  
 </details>
 
 
 
 <details open>
- <summary><h1>IT Policy</h1></summary>
+ <summary><h2>IT Policy</h2></summary>
  
 - [Lily Edinam Botsyoe](https://www.linkedin.com/in/lily-botsyoe/) - IT Policy Analyst
 
@@ -141,20 +141,20 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Mobile Development</h1></summary>
+ <summary><h2>Mobile Development</h2></summary>
 
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
 </details>
 
 
 <details open>
- <summary><h1>Network Engineering</h1></summary>
+ <summary><h2>Network Engineering</h2></summary>
 
 </details>
 
 
 <details open>
- <summary><h1>Project || Product || Program Management</h1></summary>
+ <summary><h2>Project || Product || Program Management</h2></summary>
  
 - [David Masoperh](https://www.linkedin.com/in/david-masoperh-71052b174/) - Product Manager
 - [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
@@ -166,7 +166,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Q/A || Software Testing</h1></summary>
+ <summary><h2>Q/A || Software Testing</h2></summary>
  
 - [Adea Natchiah-Blay](https://www.linkedin.com/in/adea-natchiah-blay-797a93116/) - QA Engineer
 - [Paa Jake](https://www.linkedin.com/in/paajake/) - Test Engineer
@@ -175,13 +175,13 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Tech Law</h1></summary>
+ <summary><h2>Tech Law</h2></summary>
 
 </details>
 
 
 <details open>
- <summary><h1>UI || UX || Product Design</h1></summary>
+ <summary><h2>UI || UX || Product Design</h2></summary>
  
 - [Derrick Amenuveve](https://www.derrickamenuve.com/) - UX Designer
 - [Derrick Tsorme](https://www.linkedin.com/in/tsormed/) - Product Designer
@@ -197,7 +197,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Web Development</h1></summary>
+ <summary><h2>Web Development</h2></summary>
  
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
@@ -206,7 +206,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Youtube</h1></summary>
+ <summary><h2>Youtube</h2></summary>
  
 - [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
@@ -215,7 +215,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Additional Resources</h1></summary>
+ <summary><h2>Additional Resources</h2></summary>
  
 - [Cybersecurity Resources](https://github.com/worhlali/CyberSec-Resources) by Sylvia Worlali Azumah
  
