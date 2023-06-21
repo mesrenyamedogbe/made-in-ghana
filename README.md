@@ -63,6 +63,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Joshua Offe Berkoh](https://www.linkedin.com/in/joshfiifi/) - SOC || Red Team
 - [Kingsley Albert Egyir](https://www.linkedin.com/in/kingsley-albert-egyir-489b68164/) - Threat Hunting || Incident Response || Digital Forensics
 - [Manuela Korleki Ayertey](https://www.linkedin.com/in/manuela-korleki-ayertey-729740190/) - Senior Security Operations Center Analyst
+- [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) -  Software/Cloud Engineer, Cybersecurity Specialist
 - [Newman Mortey](https://www.linkedin.com/in/newman-mortey/) - Security Engineer
 - [Norvisi Addo](https://www.linkedin.com/in/norvisiaddo/) - Chief Information Security Officer and Manager
 - [Olayinka Naa Dzama Wilson-Kofi](https://www.linkedin.com/in/olayinka-naa-dzama-wilson-kofi-08a4aa7/) - Information Security and Privacy Specialist
@@ -88,19 +89,21 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h2>Data Science</h2></summary>
+ <summary><h2>Data Science || Data Engineering || AI/ML</h2></summary>
  
+- [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - AI/NLP
 - [Aseda Addai-Deseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
+- [Chris Dare](https://www.linkedin.com/in/csdare/) - AI/ML Researcher
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
 - [Delanyo Kobla Nyamadi](https://www.linkedin.com/in/delanyo-nyamadi-69220284) - Data Scientist
-- [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - Coursera Project Instructor || Co-Founder roboMUA
+- [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - AI/ML Coursera Project Instructor || Co-Founder roboMUA
 - [Esther Doku Mensah](https://www.linkedin.com/in/esther-mensah/) - Data Analyst
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
 - [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
-- [Kwadwo Agyapon-Ntra](https://gh.linkedin.com/in/kwadwo-agyapon-ntra) - AI/ML, Data Science and Engineering
+- [Kwadwo Agyapon-Ntra](https://kayo-gh.github.io/) - AI/ML, Data Science and Engineering
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
 - [Mercy Asiedu Ph.D.](https://www.mercyasiedu.com/) - Research Scientist
 </details>
@@ -108,6 +111,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 <details open>
  <summary><h2>Database Administration</h2></summary>
+
+- [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Database Management Systems
 
 </details>
 
@@ -118,8 +123,18 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
 - [Edward Owusu-Adjei](https://www.linkedin.com/in/edward-owusu-adjei-2281ba159/) - Senior Site Reliability Engineer 
 - [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/) - DevOps Engineer
+- [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Cloud DevOps Engineer
 - [Saviour Gidi](https://www.linkedin.com/in/saviour123/) - DevOps Engineer
  
+</details>
+
+
+
+<details open>
+ <summary><h2>Electrical &amp; Electronics Engineering</h2></summary>
+
+ - [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - Electrical and Electronics Engineering
+
 </details>
 
 
@@ -129,6 +144,14 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
 </details>
 
+
+<details open>
+ <summary><h2>IoT || Embedded Systems</h2></summary>
+
+- [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Internet of Things/Embedded Systems
+- [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Internet of Things/Embedded Systems, Wireless Communications
+ 
+</details>
 
 
 <details open>
@@ -156,7 +179,9 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h2>Project || Product || Program Management</h2></summary>
  
+- [Chris Dare](https://www.linkedin.com/in/csdare/) - Product Manager
 - [David Masoperh](https://www.linkedin.com/in/david-masoperh-71052b174/) - Product Manager
+- [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Product Manager
 - [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
 - [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
 - [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
@@ -170,6 +195,17 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
 - [Adea Natchiah-Blay](https://www.linkedin.com/in/adea-natchiah-blay-797a93116/) - QA Engineer
 - [Paa Jake](https://www.linkedin.com/in/paajake/) - Test Engineer
+
+</details>
+
+
+<details open>
+ <summary><h2>Software Engineering</h2></summary>
+
+- [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Software Engineer
+- [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
+- [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
+- [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
 
 </details>
 
