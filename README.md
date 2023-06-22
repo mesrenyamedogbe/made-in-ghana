@@ -7,23 +7,23 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h2>Communities</h2></summary>
 
-| Name of Community                                                                                                  | Twitter                           | Join the community                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [AWS Accra](https://twitter.com/awsaccra)                                                                          | https://twitter.com/awsaccra      |                                                                                                               |
-| [Because She Can](htthttps://www.becauseshecan.tech)                                                               | https://twitter.com/becauseshecan | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
-| [DevCongress](https://twitter.com/DevCongress)                                                                     | https://twitter.com/DevCongress   | http://join.devcongress.org                                                                                   |
-| [Developers in Vogue](https://developersinvogue.org/)                                                              | https://twitter.com/devinvogue    | https://discord.com/invite/sqBtgueYt2                                                                         |
-| [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh)                                      | https://twitter.com/Divaloper1    |                                                                                                               |
-| [Friends of Figma, Accra](https://bento.me/fofaccra)                                                               | https://twitter.com/fof_accra     | https://friends.figma.com/accra/                                                                              |
-| For Loop                                                                                                           | https://twitter.com/forLoopGhana  |                                                                                                               |
-| [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/)                                               | https://twitter.com/GDGAccra      |                                                                                                               |
-| Notion Ghana                                                                                                       | https://twitter.com/NotionGH      | https://surveyheart.com/form/638b25ce600ae3343540dbe2                                                         |
-| [PyData Ghana](https://www.meetup.com/pydata-ghana/)                                                               | https://twitter.com/PyDataGhana   | https://t.me/PyGhana                                                                                          |
-| [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh)                                 | https://twitter.com/PyGhana       | https://t.me/PyGhana                                                                                          |
-| [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh)                               | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/                                                                                   |
-| [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra  |                                                                                                               |
-
+| Name of Community| Twitter | Join the community |
+| ----------------------- | ------- | ------------------ |
+| [AWS Accra](https://twitter.com/awsaccra) | https://twitter.com/awsaccra | |
+| [Because She Can](htthttps://www.becauseshecan.tech) | https://twitter.com/becauseshecan | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
+| [DevCongress](https://twitter.com/DevCongress) | https://twitter.com/DevCongress | http://join.devcongress.org |
+| [Developers in Vogue](https://developersinvogue.org/) | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
+| [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh) | https://twitter.com/Divaloper1 |  |
+| [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
+| For Loop | https://twitter.com/forLoopGhana |  |
+| [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
+| Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
+| [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
+| [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyGhana | https://t.me/PyGhana |
+| [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
+| [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |  |
 </details>
+
 
 <details open>
  <summary><h2>Cybersecurity</h2></summary>
@@ -87,6 +87,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Viola Adams](https://www.linkedin.com/in/viola-adams/) - Digital Forensic Analyst
 </details>
 
+
 <details open>
  <summary><h2>Data Science || Data Engineering || AI/ML</h2></summary>
  
@@ -107,12 +108,15 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Mercy Asiedu Ph.D.](https://www.mercyasiedu.com/) - Research Scientist
 </details>
 
+
 <details open>
  <summary><h2>Database Administration</h2></summary>
 
 - [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Database Management Systems
 
 </details>
+
+
 
 <details open>
  <summary><h2>DevOps || SRE</h2></summary>
@@ -124,25 +128,31 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
 </details>
 
+
+
 <details open>
  <summary><h2>Electrical &amp; Electronics Engineering</h2></summary>
 
-- [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - Electrical and Electronics Engineering
+ - [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - Electrical and Electronics Engineering
 
 </details>
+
+
 
 <details open>
  <summary><h2>Game Development</h2></summary>
  
 </details>
 
+
 <details open>
  <summary><h2>IoT || Embedded Systems</h2></summary>
 
 - [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Internet of Things/Embedded Systems
 - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Internet of Things/Embedded Systems, Wireless Communications
-
+ 
 </details>
+
 
 <details open>
  <summary><h2>IT Policy</h2></summary>
@@ -151,16 +161,20 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 </details>
 
+
+
 <details open>
  <summary><h2>Mobile Development</h2></summary>
 
-- [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
+ - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
 </details>
+
 
 <details open>
  <summary><h2>Network Engineering</h2></summary>
 
 </details>
+
 
 <details open>
  <summary><h2>Project || Product || Program Management</h2></summary>
@@ -175,6 +189,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Yaa Nuamah Kusi-Fordjour](https://www.linkedin.com/in/yaanuamah/) - Technical Product Manager
 </details>
 
+
 <details open>
  <summary><h2>Q/A || Software Testing</h2></summary>
  
@@ -182,6 +197,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Paa Jake](https://www.linkedin.com/in/paajake/) - Test Engineer
 
 </details>
+
 
 <details open>
  <summary><h2>Software Engineering</h2></summary>
@@ -192,12 +208,15 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
 - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer
 
+
 </details>
+
 
 <details open>
  <summary><h2>Tech Law</h2></summary>
 
 </details>
+
 
 <details open>
  <summary><h2>UI || UX || Product Design</h2></summary>
@@ -214,15 +233,18 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 </details>
 
+
 <details open>
  <summary><h2>Web Development</h2></summary>
  
  - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
- - [Shareef Ali](https://bento.me/shareef) - Software Engineer(ReactJS, NextJS, NodeJS, Flask, GCP, AWS)
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
+ - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer (ReactJs, NextJs, NodeJs, GCP, AWS, Vercel)
+
 
 </details>
+
 
 <details open>
  <summary><h2>Youtube</h2></summary>
@@ -231,6 +253,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
 - [TechChef Africa](https://www.youtube.com/@techchefafrica9323) by Nana Efua Benyaw
 </details>
+
 
 <details open>
  <summary><h2>Additional Resources</h2></summary>
