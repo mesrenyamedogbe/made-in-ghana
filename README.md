@@ -5,7 +5,7 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 If you are interested in contributing, kindly read the [contribution guideline](https://github.com/mesrenyamedogbe/made-in-ghana/blob/main/contributing.md).
 
 <details open>
- <summary><h1>Communities</h1></summary>
+ <summary><h2>Communities</h2></summary>
 
 | Name of Community| Twitter | Join the community |
 | ----------------------- | ------- | ------------------ |
@@ -15,7 +15,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [Developers in Vogue](https://developersinvogue.org/) | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
 | [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh) | https://twitter.com/Divaloper1 |  |
 | [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
-| For Loop | | https://twitter.com/forLoopGhana | |
+| For Loop | https://twitter.com/forLoopGhana |  |
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
 | Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
 | [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
@@ -27,7 +27,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Cybersecurity</h1></summary>
+ <summary><h2>Cybersecurity</h2></summary>
  
 - [Aaron Felix](https://www.linkedin.com/in/aaron-felix-8ba58a76/) - Cybersecurity Policy Analyst
 - [Abigail Brianna Dede Okley](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94/) - Risk and Assessment || Vulnerability Management
@@ -64,6 +64,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Joshua Offe Berkoh](https://www.linkedin.com/in/joshfiifi/) - SOC || Red Team
 - [Kingsley Albert Egyir](https://www.linkedin.com/in/kingsley-albert-egyir-489b68164/) - Threat Hunting || Incident Response || Digital Forensics
 - [Manuela Korleki Ayertey](https://www.linkedin.com/in/manuela-korleki-ayertey-729740190/) - Senior Security Operations Center Analyst
+- [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) -  Software/Cloud Engineer, Cybersecurity Specialist
 - [Newman Mortey](https://www.linkedin.com/in/newman-mortey/) - Security Engineer
 - [Norvisi Addo](https://www.linkedin.com/in/norvisiaddo/) - Chief Information Security Officer and Manager
 - [Olayinka Naa Dzama Wilson-Kofi](https://www.linkedin.com/in/olayinka-naa-dzama-wilson-kofi-08a4aa7/) - Information Security and Privacy Specialist
@@ -89,36 +90,41 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Data Science</h1></summary>
+ <summary><h2>Data Science || Data Engineering || AI/ML</h2></summary>
  
-- [Aseda Addai-Desseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
+- [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - AI/NLP
+- [Aseda Addai-Deseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
+- [Chris Dare](https://www.linkedin.com/in/csdare/) - AI/ML Researcher
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
 - [Delanyo Kobla Nyamadi](https://www.linkedin.com/in/delanyo-nyamadi-69220284) - Data Scientist
-- [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - Coursera Project Instructor || Co-Founder roboMUA
+- [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - AI/ML Coursera Project Instructor || Co-Founder roboMUA
 - [Esther Doku Mensah](https://www.linkedin.com/in/esther-mensah/) - Data Analyst
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
 - [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
-- [Kwadwo Agyapon-Ntra](https://gh.linkedin.com/in/kwadwo-agyapon-ntra) - AI/ML, Data Science and Engineering
+- [Kwadwo Agyapon-Ntra](https://kayo-gh.github.io/) - AI/ML, Data Science and Engineering
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
 - [Mercy Asiedu Ph.D.](https://www.mercyasiedu.com/) - Research Scientist
 </details>
 
 
 <details open>
- <summary><h1>Database Administration</h1></summary>
+ <summary><h2>Database Administration</h2></summary>
+
+- [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Database Management Systems
 
 </details>
 
 
 
 <details open>
- <summary><h1>DevOps || SRE</h1></summary>
+ <summary><h2>DevOps || SRE</h2></summary>
  
 - [Edward Owusu-Adjei](https://www.linkedin.com/in/edward-owusu-adjei-2281ba159/) - Senior Site Reliability Engineer 
 - [Joseph Sowah](https://www.linkedin.com/in/joseph-anyetei-sowah/) - DevOps Engineer
+- [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Cloud DevOps Engineer
 - [Saviour Gidi](https://www.linkedin.com/in/saviour123/) - DevOps Engineer
  
 </details>
@@ -126,43 +132,67 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Game Development</h1></summary>
+ <summary><h2>Electrical &amp; Electronics Engineering</h2></summary>
+
+ - [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - Electrical and Electronics Engineering
+
+</details>
+
+
+
+<details open>
+ <summary><h2>Game Development</h2></summary>
  
 </details>
 
 
-
 <details open>
- <summary><h1>IT Policy</h1></summary>
+ <summary><h2>IoT || Embedded Systems</h2></summary>
 
-</details>
-
-
-
-<details open>
- <summary><h1>Mobile Development</h1></summary>
-
-</details>
-
-
-<details open>
- <summary><h1>Network Engineering</h1></summary>
-
-</details>
-
-
-<details open>
- <summary><h1>Project || Product || Program Management</h1></summary>
+- [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Internet of Things/Embedded Systems
+- [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Internet of Things/Embedded Systems, Wireless Communications
  
+</details>
+
+
+<details open>
+ <summary><h2>IT Policy</h2></summary>
+ 
+- [Lily Edinam Botsyoe](https://www.linkedin.com/in/lily-botsyoe/) - IT Policy Analyst
+
+</details>
+
+
+
+<details open>
+ <summary><h2>Mobile Development</h2></summary>
+
+ - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
+</details>
+
+
+<details open>
+ <summary><h2>Network Engineering</h2></summary>
+
+</details>
+
+
+<details open>
+ <summary><h2>Project || Product || Program Management</h2></summary>
+ 
+- [Chris Dare](https://www.linkedin.com/in/csdare/) - Product Manager
+- [David Masoperh](https://www.linkedin.com/in/david-masoperh-71052b174/) - Product Manager
+- [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Product Manager
 - [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
 - [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
 - [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+- [Wendy Essuman](https://www.linkedin.com/in/wendy-essuman-085ba6173/) - Project/Product Manager
 - [Yaa Nuamah Kusi-Fordjour](https://www.linkedin.com/in/yaanuamah/) - Technical Product Manager
 </details>
 
 
 <details open>
- <summary><h1>QA || Software Testing</h1></summary>
+ <summary><h2>QA || Software Testing</h2></summary>
  
 - [Adea Natchiah-Blay](https://www.linkedin.com/in/adea-natchiah-blay-797a93116/) - Software QA Engineer
 - [Paa Jake](https://www.linkedin.com/in/paajake/) - Test Engineer
@@ -179,13 +209,24 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Tech Law</h1></summary>
+ <summary><h2>Software Engineering</h2></summary>
+
+- [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Software Engineer
+- [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
+- [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
+- [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
 
 </details>
 
 
 <details open>
- <summary><h1>UI || UX || Product Design</h1></summary>
+ <summary><h2>Tech Law</h2></summary>
+
+</details>
+
+
+<details open>
+ <summary><h2>UI || UX || Product Design</h2></summary>
  
 - [Derrick Amenuveve](https://www.derrickamenuve.com/) - UX Designer
 - [Derrick Tsorme](https://www.linkedin.com/in/tsormed/) - Product Designer
@@ -196,17 +237,22 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Reagan Marfo](https://www.linkedin.com/in/reaganmarfo/) - UI/UX Designer
 - [Priscilla Naa Ayorkor Tagoe](https://www.linkedin.com/in/priscillatagoe/) - UI/UX Designer || 3D Animator
 - [Vivian Martha Navele](https://www.linkedin.com/in/viviannavele/) - UX Designer
+
 </details>
 
 
 <details open>
- <summary><h1>Web Development</h1></summary>
+ <summary><h2>Web Development</h2></summary>
  
+ - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
+ - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
+ - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
+
 </details>
 
 
 <details open>
- <summary><h1>Youtube</h1></summary>
+ <summary><h2>Youtube</h2></summary>
  
 - [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
@@ -215,7 +261,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Additional Resources</h1></summary>
+ <summary><h2>Additional Resources</h2></summary>
  
 - [Cybersecurity Resources](https://github.com/worhlali/CyberSec-Resources) by Sylvia Worlali Azumah
 - [Software Testing Resources](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
