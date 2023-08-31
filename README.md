@@ -21,7 +21,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
 | [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
-| [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |  |
+| [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |  
+|[Ministry of Testing Accra](https://www.meetup.com/ministry-of-testing-accra/) | (https://twitter.com/motaccra)| |
 </details>
 
 
@@ -161,10 +162,18 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 
 <details open>
- <summary><h1>Q/A || Software Testing</h1></summary>
+ <summary><h1>QA || Software Testing</h1></summary>
  
-- [Adea Natchiah-Blay](https://www.linkedin.com/in/adea-natchiah-blay-797a93116/) - QA Engineer
+- [Adea Natchiah-Blay](https://www.linkedin.com/in/adea-natchiah-blay-797a93116/) - Software QA Engineer
 - [Paa Jake](https://www.linkedin.com/in/paajake/) - Test Engineer
+- [Chelsea Kowouvi](https://www.linkedin.com/in/chelsea-kowouvi/) - Software QA Engineer
+- [Kwame Amoako Wilson](https://www.linkedin.com/in/kwame-amoako-wilson/) - Software QA Engineer
+- [Francis Bonsu](https://www.linkedin.com/in/francis-bonsu-a57469b5/) - Software QA Engineer
+- [Pascal Tamakloe](https://www.linkedin.com/in/pascal-amoudzi-tamekloe-a54004172/) - Software QA Engineer
+- [Caleb Nanigah](https://www.linkedin.com/in/caleb-nanigah/) - Software QA Engineer
+- [Bright Kwame Nuerty](https://www.linkedin.com/in/bright-kwame-nuertey-47973798/) - Software QA Engineer
+- [Abdul Manaf Sulley](https://www.linkedin.com/in/abdul-manaf-sulley/) - Software QA Engineer
+- [Williams Antwi](https://www.linkedin.com/in/williams-antwi-84292061/) - Software QA Engineer
 
 </details>
 
@@ -209,5 +218,6 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h1>Additional Resources</h1></summary>
  
 - [Cybersecurity Resources](https://github.com/worhlali/CyberSec-Resources) by Sylvia Worlali Azumah
+- [Software Testing Resources](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
  
  </details>
