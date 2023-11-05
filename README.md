@@ -10,7 +10,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | Name of Community| Twitter | Join the community |
 | ----------------------- | ------- | ------------------ |
 | [AWS Accra](https://twitter.com/awsaccra) | https://twitter.com/awsaccra | |
-| [Because She Can](htthttps://www.becauseshecan.tech) | https://twitter.com/becauseshecan | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
+| [Because She Can](https://www.becauseshecan.tech) | [https://twitter.com/becauseshecan_](https://twitter.com/becauseshecan_) | https://because-she-can.slack.com/join/shared_invite/zt-13bgisr6u-K7CbussrTLWnNZPTbCFmPA#/shared-invite/email |
 | [DevCongress](https://twitter.com/DevCongress) | https://twitter.com/DevCongress | http://join.devcongress.org |
 | [Developers in Vogue](https://developersinvogue.org/) | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
 | [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh) | https://twitter.com/Divaloper1 |  |
