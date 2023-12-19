@@ -206,6 +206,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
 - [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
+- [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer
+
 
 </details>
 
@@ -238,6 +240,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
  - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
+ - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer (ReactJs, NextJs, NodeJs, GCP, AWS, Vercel)
+
 
 </details>
 
