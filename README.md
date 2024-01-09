@@ -106,6 +106,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Kwadwo Agyapon-Ntra](https://kayo-gh.github.io/) - AI/ML, Data Science and Engineering
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
 - [Mercy Asiedu Ph.D.](https://www.mercyasiedu.com/) - Research Scientist
+- [Frank Opoku Mensah](https://www.linkedin.com/in/frank-opoku-mensah/) - Data Scientist/ Data Analyst
 </details>
 
 
