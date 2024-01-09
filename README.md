@@ -206,6 +206,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Software Engineer
 - [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
 - [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
+- [Joseph Abuanor](https://www.linkedin.com/in/joseph-abuanor/) - Software Engineer
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
 - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer
 
