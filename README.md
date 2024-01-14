@@ -108,6 +108,12 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
 - [Mercy Asiedu Ph.D.](https://www.mercyasiedu.com/) - Research Scientist
 - [Frank Opoku Mensah](https://www.linkedin.com/in/frank-opoku-mensah/) - Data Scientist/ Data Analyst
+- [Emefa Duah](https://www.linkedin.com/in/emefaduah/) - Data Scientist/ Data Analyst
+- [Samuel Ayer](https://www.linkedin.com/in/samuel-ayer/) - Data Analyst/ AWS cloud practitioner
+- [Emmanuel Amoaku](https://www.linkedin.com/in/emmanuel-amoaku/) - Machine Learning Engineer
+- [Precious Darkwa](https://www.linkedin.com/in/darkwa-precious/) - Data Scientist
+- [Derek Degbe](https://www.linkedin.com/in/derek-degbe-34b270163/) - Data Engineer
+  
 </details>
 
 
