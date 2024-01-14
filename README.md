@@ -225,6 +225,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 <details open>
  <summary><h2>Tech Law</h2></summary>
+ [Michel A. Nkansah](https://www.linkedin.com/in/themichnkansah/) - Product Manager
 
 </details>
 
