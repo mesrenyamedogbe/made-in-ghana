@@ -17,6 +17,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
 | For Loop | https://twitter.com/forLoopGhana |  |
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
+| [Legaltech Lounge Community](https://www.linkedin.com/groups/9548159/)|
 | Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
 | [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
 | [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyGhana | https://t.me/PyGhana |
@@ -92,28 +93,39 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h2>Data Science || Data Engineering || AI/ML</h2></summary>
  
+- [Amina Salifu](https://www.linkedin.com/in/amina-salifu-7476311a3/) - NLP Researcher
 - [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - AI/NLP
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Aseda Addai-Deseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
 - [Chris Dare](https://www.linkedin.com/in/csdare/) - AI/ML Researcher
+ 
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
 - [Delanyo Kobla Nyamadi](https://www.linkedin.com/in/delanyo-nyamadi-69220284) - Data Scientist
+- [Derek Degbe](https://www.linkedin.com/in/derek-degbe-34b270163/) - Data Engineer
+- [Emefa Duah](https://www.linkedin.com/in/emefaduah/) - Data Scientist/ Data Analyst
 - [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - AI/ML Coursera Project Instructor || Co-Founder roboMUA
+- [Emmanuel Amoaku](https://www.linkedin.com/in/emmanuel-amoaku/) - Machine Learning Engineer
+ 
 - [Esther Doku Mensah](https://www.linkedin.com/in/esther-mensah/) - Data Analyst
 - [Frank Opoku Mensah](https://www.linkedin.com/in/frank-opoku-mensah/) - Data Scientist/ Data Analyst
+- [Franklin Adjei](https://www.linkedin.com/in/franklin-koomson-adjei-227bb5130/)- Data Scientist/ Analyst/ Engineer
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
 - [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
+ 
+- [Khadija Iddrisu](https://www.linkedin.com/in/iddrisu-khadija/) - Machine Learning Research
 - [Kwadwo Agyapon-Ntra](https://kayo-gh.github.io/) - AI/ML, Data Science and Engineering
+- [Kingsley Abru](https://www.linkedin.com/in/kingsley-abru/) - Data Engineer
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
-- [Mercy Asiedu Ph.D.](https://www.mercyasiedu.com/) - Research Scientist
-- [Frank Opoku Mensah](https://www.linkedin.com/in/frank-opoku-mensah/) - Data Scientist/ Data Analyst
-- [Emefa Duah](https://www.linkedin.com/in/emefaduah/) - Data Scientist/ Data Analyst
-- [Samuel Ayer](https://www.linkedin.com/in/samuel-ayer/) - Data Analyst/ AWS cloud practitioner
-- [Emmanuel Amoaku](https://www.linkedin.com/in/emmanuel-amoaku/) - Machine Learning Engineer
+- [Mercy Asiedu Ph.D.](https://www.linkedin.com/in/mercy-n-asiedu/) - Research Scientist
+- [Naa Ashiorkor Nortey](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)- Data Scientist
+- [Paulina Boadiwaa Mensah, MD](https://www.linkedin.com/in/dr-paulina-boadiwaa-mensah/) - Health Data Analyst/ Data Scientist
 - [Precious Darkwa](https://www.linkedin.com/in/darkwa-precious/) - Data Scientist
-- [Derek Degbe](https://www.linkedin.com/in/derek-degbe-34b270163/) - Data Engineer
+- [Salomey Addo](https://www.linkedin.com/in/salomey-addo/) - AI Education Researcher
+- [Salomey Osei](https://www.linkedin.com/in/salomey-osei-4b08a5b8/) - Machine Learning Researcher
+- [Samuel Ayer](https://www.linkedin.com/in/samuel-ayer/) - Data Analyst/ AWS cloud practitioner
+
   
 </details>
 
@@ -194,6 +206,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Joel Kojo Anaman](https://www.linkedin.com/in/joelanaman/) - Product Manager
 - [Kafui Yevu](https://www.linkedin.com/in/kafuiday/) - Product Manager
 - [Nana Efua Benyaw](https://www.linkedin.com/in/nana-efua-benyaw/) - Product Manager
+- [Richmond Chris-Koka](https://www.linkedin.com/in/rchriskoka/) - Senior Product Manager
 - [Wendy Essuman](https://www.linkedin.com/in/wendy-essuman-085ba6173/) - Project/Product Manager
 - [Yaa Nuamah Kusi-Fordjour](https://www.linkedin.com/in/yaanuamah/) - Technical Product Manager
 </details>
