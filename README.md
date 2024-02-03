@@ -38,6 +38,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Albert Tetteh](https://www.linkedin.com/in/albert-tetteh-76424676/) - Information Security Risk
 - [Arnold Kyei-Baffour](https://www.linkedin.com/in/arnold-kyei-baffour-93453811b/) - Penetration Testing
 - [Audrey Mnisi](https://www.linkedin.com/in/audrey-mnisi-7a52b595/) - Risk and Cybersecurity Executive || WiCyS West Africa Affiliate Vice President
+- [Clifford Emmanuel Akai-Nettey](https://www.linkedin.com/in/cliffordemmanuelakai-nettey/) - Data Engineer 
 - [Daniel Kwaku Ntiamoah Addai](https://www.linkedin.com/in/daniel-kwaku-ntiamoah-addai-a70448138/) - SOC || IR
 - [Dennis Adom Quarshie](https://www.linkedin.com/in/dennis-adom-quashie-2ab72b125/) - Information Security Analyst & Incident Responder
 - [Derrick Agbemazi](https://www.linkedin.com/in/dagbemazi) - Security Engineer
@@ -95,6 +96,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
 - [Amina Salifu](https://www.linkedin.com/in/amina-salifu-7476311a3/) - NLP Researcher
 - [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - AI/NLP
+- [Alex Nyarko](https://www.linkedin.com/in/alex-nyarko-mba-bsc-60b482203/) - Data Engineer
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Aseda Addai-Deseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
 - [Chris Dare](https://www.linkedin.com/in/csdare/) - AI/ML Researcher
@@ -106,7 +108,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Emefa Duah](https://www.linkedin.com/in/emefaduah/) - Data Scientist/ Data Analyst
 - [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - AI/ML Coursera Project Instructor || Co-Founder roboMUA
 - [Emmanuel Amoaku](https://www.linkedin.com/in/emmanuel-amoaku/) - Machine Learning Engineer
- 
+- [Enoch Nunekpeku](https://www.linkedin.com/in/enoch-nunekpeku/) - Business Data Analyst/ Data Scientist
+
 - [Esther Doku Mensah](https://www.linkedin.com/in/esther-mensah/) - Data Analyst
 - [Frank Opoku Mensah](https://www.linkedin.com/in/frank-opoku-mensah/) - Data Scientist/ Data Analyst
 - [Franklin Adjei](https://www.linkedin.com/in/franklin-koomson-adjei-227bb5130/)- Data Scientist/ Analyst/ Engineer
@@ -120,12 +123,17 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Martha Teye](https://www.linkedin.com/in/martha-t-teye/) - Researcher
 - [Mercy Asiedu Ph.D.](https://www.linkedin.com/in/mercy-n-asiedu/) - Research Scientist
 - [Naa Ashiorkor Nortey](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)- Data Scientist
+- [Otema Yirenkyi](https://www.linkedin.com/in/otemayirenkyi/) - Data Scientist
 - [Paulina Boadiwaa Mensah, MD](https://www.linkedin.com/in/dr-paulina-boadiwaa-mensah/) - Health Data Analyst/ Data Scientist
 - [Precious Darkwa](https://www.linkedin.com/in/darkwa-precious/) - Data Scientist
+- [Princilla Abena Koranteng](https://www.linkedin.com/in/princilla-abena-koranteng/) - Business Intelligence
+- [Richard Nii Lante LAWSON](https://www.linkedin.com/in/theniilante/) - Data Scientist/ Dev Ops
+- [Richmond Acquah]( https://www.linkedin.com/in/racquah/) - Data Scientist
 - [Salomey Addo](https://www.linkedin.com/in/salomey-addo/) - AI Education Researcher
-- [Salomey Osei](https://www.linkedin.com/in/salomey-osei-4b08a5b8/) - Machine Learning Researcher
+- [Salomey Osei](https://www.linkedin.com/in/salomey-osei-4b08a5b8/) - Research Scientist
 - [Samuel Ayer](https://www.linkedin.com/in/samuel-ayer/) - Data Analyst/ AWS cloud practitioner
-
+- [Selasi Ayittah](https://www.linkedin.com/in/selasiayittah/) - Data Scientist
+- [Stephen Sarpong](https://www.linkedin.com/in/stephen-sarpong/) - Data Analyst
   
 </details>
 
@@ -234,6 +242,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
 - [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Software Engineer
 - [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
+- [Emmanuel Owusu](https://www.linkedin.com/in/owusuemmanuel/) - Senior Backend Engineer/Software Engineer/ DevOps
 - [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
 - [Joseph Abuanor](https://www.linkedin.com/in/joseph-abuanor/) - Software Engineer
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
@@ -285,6 +294,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
 - [TechChef Africa](https://www.youtube.com/@techchefafrica9323) by Nana Efua Benyaw
+- [Data with Princilla](https://www.youtube.com/@datawithprincilla) by Princilla Abena Koranteng
 </details>
 
 
