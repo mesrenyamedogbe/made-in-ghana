@@ -125,6 +125,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Salomey Addo](https://www.linkedin.com/in/salomey-addo/) - AI Education Researcher
 - [Salomey Osei](https://www.linkedin.com/in/salomey-osei-4b08a5b8/) - Machine Learning Researcher
 - [Samuel Ayer](https://www.linkedin.com/in/samuel-ayer/) - Data Analyst/ AWS cloud practitioner
+- [Selasi Ayittah](https://www.linkedin.com/in/selasiayittah/) - Data Scientist/ Data Analyst
+
 
   
 </details>
