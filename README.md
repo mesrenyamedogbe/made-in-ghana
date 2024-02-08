@@ -14,6 +14,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [DevCongress](https://twitter.com/DevCongress) | https://twitter.com/DevCongress | http://join.devcongress.org |
 | [Developers in Vogue](https://developersinvogue.org/) | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
 | [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh) | https://twitter.com/Divaloper1 |  |
+|[Flutter Accra](https://www.meetup.com/flutter-accra/) | (https://twitter.com/Flutter_Ghana)| |
+|[Flutter Kumasi](https://www.meetup.com/flutter-kumasi/) | (https://twitter.com/Flutter_Ghana)| |
 | [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
 | For Loop | https://twitter.com/forLoopGhana |  |
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
@@ -24,6 +26,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
 | [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |  
 |[Ministry of Testing Accra](https://www.meetup.com/ministry-of-testing-accra/) | (https://twitter.com/motaccra)| |
+
 </details>
 
 
@@ -195,6 +198,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h2>Mobile Development</h2></summary>
 
+ - [Bright Etornam Sunu](https://www.linkedin.com/in/etornam-sunu/) - Mobile Engineer(Flutter, Android,iOS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
 </details>
 
@@ -241,6 +245,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h2>Software Engineering</h2></summary>
 
 - [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Software Engineer
+- [Bright Etornam Sunu](https://www.linkedin.com/in/etornam-sunu/) - Software Engineer
 - [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
 - [Emmanuel Owusu](https://www.linkedin.com/in/owusuemmanuel/) - Senior Backend Engineer/Software Engineer/ DevOps
 - [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
