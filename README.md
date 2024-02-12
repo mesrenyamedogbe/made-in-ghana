@@ -200,7 +200,8 @@ If you are interested in contributing, kindly read the [contribution guideline](
 
  - [Bright Etornam Sunu](https://www.linkedin.com/in/etornam-sunu/) - Mobile Engineer(Flutter, Android,iOS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
- - [Salami Gideon](linkedin.com/in/gideon-kofi-salami-44a206209) - Mobile Developer(Flutter, Kotlin) 
+ - [Salami Gideon](linkedin.com/in/gideon-kofi-salami-44a206209) - Mobile Developer(Flutter, Kotlin)
+ - [Samuel Agbesinyale](linkedin.com/in/gideon-kofi-salami-44a206209) - Android Engineer (Architecture & UI)
 </details>
 
 
