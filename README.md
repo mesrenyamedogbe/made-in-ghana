@@ -199,8 +199,9 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h2>Mobile Development</h2></summary>
 
  - [Bright Etornam Sunu](https://www.linkedin.com/in/etornam-sunu/) - Mobile Engineer(Flutter, Android,iOS)
+ - [Salami Gideon](https://www.linkedin.com/in/gideon-kofi-salami-44a206209) - Mobile Developer(Flutter, Kotlin)
+ - [Samuel Agbesinyale](https://www.linkedin.com/in/samuel-agbesinyale-0ba58a119/) - Android Engineer (Architecture & UI)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
- - [Salami Gideon](linkedin.com/in/gideon-kofi-salami-44a206209) - Mobile Developer(Flutter, Kotlin) 
 </details>
 
 
