@@ -308,6 +308,5 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h2>Additional Resources</h2></summary>
  
 - [Cybersecurity Resources](https://github.com/worhlali/CyberSec-Resources) by Sylvia Worlali Azumah
-- [Software Testing Resources](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
  
  </details>
