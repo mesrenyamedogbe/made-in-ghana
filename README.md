@@ -301,6 +301,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
 - [TechChef Africa](https://www.youtube.com/@techchefafrica9323) by Nana Efua Benyaw
+- [The Tech Surf Podcast](https://www.youtube.com/channel/UCnKHvvuhvzex12lALNvmvOw) by Raymond Klutse
 - [Data with Princilla](https://www.youtube.com/@datawithprincilla) by Princilla Abena Koranteng
 </details>
 
