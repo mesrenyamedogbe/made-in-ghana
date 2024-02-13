@@ -290,7 +290,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
  - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer (ReactJs, NextJs, NodeJs, GCP, AWS, Vercel)
-
+ - [Jeffrey Mintah](https://www.linkedin.com/in/jeffrey-m-a846a2229) - Web Developer (Django, ReactJs)
 
 </details>
 
