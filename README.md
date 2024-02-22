@@ -299,6 +299,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h2>Youtube</h2></summary>
  
+- [BJ Security Command](https://www.youtube.com/@bjsecuritycommand) by Berkoh Joshua
 - [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
 - [Hannah Kwaw](https://www.youtube.com/@hannahkwaw) by Hannah Kwaw
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
