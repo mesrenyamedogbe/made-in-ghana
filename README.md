@@ -103,7 +103,6 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Aseda Addai-Deseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
 - [Chris Dare](https://www.linkedin.com/in/csdare/) - AI/ML Researcher
- 
 - [Deborah Arthur](https://www.linkedin.com/in/deborah-arthur-d/) - Data Analyst
 - [Deborah Dormah Kanubala](https://www.linkedin.com/in/kanubalad/) - Researcher
 - [Delanyo Kobla Nyamadi](https://www.linkedin.com/in/delanyo-nyamadi-69220284) - Data Scientist
@@ -112,14 +111,13 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Emmanuel Acheampong](https://www.linkedin.com/in/emmanuel-acheampong/) - AI/ML Coursera Project Instructor || Co-Founder roboMUA
 - [Emmanuel Amoaku](https://www.linkedin.com/in/emmanuel-amoaku/) - Machine Learning Engineer
 - [Enoch Nunekpeku](https://www.linkedin.com/in/enoch-nunekpeku/) - Business Data Analyst/ Data Scientist
-
+- [Godfred Owusu Brobbey](https://www.linkedin.com/in/kwame-brobbey-2506a3280/) - Business Data Analyst
 - [Esther Doku Mensah](https://www.linkedin.com/in/esther-mensah/) - Data Analyst
 - [Frank Opoku Mensah](https://www.linkedin.com/in/frank-opoku-mensah/) - Data Scientist/ Data Analyst
 - [Franklin Adjei](https://www.linkedin.com/in/franklin-koomson-adjei-227bb5130/)- Data Scientist/ Analyst/ Engineer
 - [Gifty Senam Dovie](https://gh.linkedin.com/in/gifty-senam-dovie) - Data Analyst
 - [Joana Owusu-Appiah](https://gh.linkedin.com/in/joana-owusu-appiah-8751a9166) - Data Analyst
 - [John Bagiliko](https://www.linkedin.com/in/john-bagiliko-b97b0b155/) - Researcher and Zindi Ambassador
- 
 - [Khadija Iddrisu](https://www.linkedin.com/in/iddrisu-khadija/) - Machine Learning Research
 - [Kwadwo Agyapon-Ntra](https://kayo-gh.github.io/) - AI/ML, Data Science and Engineering
 - [Kingsley Abru](https://www.linkedin.com/in/kingsley-abru/) - Data Engineer
