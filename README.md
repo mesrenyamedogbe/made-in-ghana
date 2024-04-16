@@ -18,6 +18,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 |[Flutter Kumasi](https://www.meetup.com/flutter-kumasi/) | (https://twitter.com/Flutter_Ghana)| |
 | [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
 | For Loop | https://twitter.com/forLoopGhana |  |
+| [GhanaNLP](https://ghananlp.org/) | https://x.com/GhanaNLP
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
 | [Legaltech Lounge Community](https://www.linkedin.com/groups/9548159/)|
 | Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
