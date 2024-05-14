@@ -13,6 +13,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  | ----------------------- | ------- | ------------------ |------------------------------- |
  |[Amalitech](https://amalitech.org) | https://amalitech.org | https://www.linkedin.com/company/amalitech-services | https://twitter.com/AmaliTech_gGmbh |
  |[DeaRx Mom](https://dearxmom.com/)  | https://dearxmom.com | https://www.linkedin.com/company/dearxmom | https://twitter.com/dearxmom |
+ |[Mazzuma](https://mazzuma.com/)  | https://mazzuma.com | https://www.linkedin.com/company/officialmazzuma  | https://twitter.com/OfficialMazzuma |
  |[SnooCode](https://snoocode.com) | https://snoocode.com | https://www.linkedin.com/company/snoocode/ | https://twitter.com/SnooCODE
  
  </details>
