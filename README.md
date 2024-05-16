@@ -4,6 +4,20 @@ A curated awesome list of tech folks, resources, communities and more by Ghanaia
 
 If you are interested in contributing, kindly read the [contribution guideline](https://github.com/mesrenyamedogbe/made-in-ghana/blob/main/contributing.md).
 
+
+
+<details open>
+ <summary><h2>Tech Companies</h2></summary>
+ 
+ | Name of Company| Website| Linkedin | Twitter |
+ | ----------------------- | ------- | ------------------ |------------------------------- |
+ |[Amalitech](https://amalitech.org) | https://amalitech.org | https://www.linkedin.com/company/amalitech-services | https://twitter.com/AmaliTech_gGmbh |
+ |[DeaRx Mom](https://dearxmom.com/)  | https://dearxmom.com | https://www.linkedin.com/company/dearxmom | https://twitter.com/dearxmom |
+ |[Mazzuma](https://mazzuma.com/)  | https://mazzuma.com | https://www.linkedin.com/company/officialmazzuma  | https://twitter.com/OfficialMazzuma |
+ |[SnooCode](https://snoocode.com) | https://snoocode.com | https://www.linkedin.com/company/snoocode/ | https://twitter.com/SnooCODE
+ 
+ </details>
+ 
 <details open>
  <summary><h2>Communities</h2></summary>
 
