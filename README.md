@@ -200,6 +200,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  - [Bright Etornam Sunu](https://www.linkedin.com/in/etornam-sunu/) - Mobile Engineer(Flutter, Android,iOS)
  - [Salami Gideon](https://www.linkedin.com/in/gideon-kofi-salami-44a206209) - Mobile Developer(Flutter, Kotlin)
  - [Samuel Agbesinyale](https://www.linkedin.com/in/samuel-agbesinyale-0ba58a119/) - Android Engineer (Architecture & UI)
+ - [Sampson Ali Awenbolimi](https://www.linkedin.com/in/sampson-awenbolimi-122b15133/) - Android Engineer (Android, Flutter, Kotlin)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
 </details>
 
@@ -252,6 +253,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
 - [Joseph Abuanor](https://www.linkedin.com/in/joseph-abuanor/) - Software Engineer
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
+- [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) - Software Engineer
 - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer
 
 
@@ -286,6 +288,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h2>Web Development</h2></summary>
  
  - [Jeffrey Mintah](https://www.linkedin.com/in/jeffrey-m-a846a2229) - Web Developer (Django, ReactJs)
+ - [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) - Web Developer (ReactJS, PHP, NodeJS, Java)
  - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
