@@ -28,10 +28,10 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [DevCongress](https://twitter.com/DevCongress) | https://twitter.com/DevCongress | http://join.devcongress.org |
 | [Developers in Vogue](https://developersinvogue.org/) | https://twitter.com/devinvogue | https://discord.com/invite/sqBtgueYt2 |
 | [Divaloper](https://www.linkedin.com/company/divaloper/?originalSubdomain=gh) | https://twitter.com/Divaloper1 |  |
-|[Flutter Accra](https://www.meetup.com/flutter-accra/) | (https://twitter.com/Flutter_Ghana)| |
-|[Flutter Kumasi](https://www.meetup.com/flutter-kumasi/) | (https://twitter.com/Flutter_Ghana)| |
+| [Flutter Accra](https://www.meetup.com/flutter-accra/) | (https://twitter.com/Flutter_Ghana)| |
+| [Flutter Kumasi](https://www.meetup.com/flutter-kumasi/) | (https://twitter.com/Flutter_Ghana)| |
 | [Friends of Figma, Accra](https://bento.me/fofaccra) | https://twitter.com/fof_accra | https://friends.figma.com/accra/ |
-| For Loop | https://twitter.com/forLoopGhana |  |
+| [For Loop](https://twitter.com/forLoopGhana) | https://twitter.com/forLoopGhana |  |
 | [GhanaNLP](https://ghananlp.org/) | https://x.com/GhanaNLP
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
 | [Legaltech Lounge Community](https://www.linkedin.com/groups/9548159/)|
