@@ -319,7 +319,9 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Because She Can](https://www.youtube.com/channel/UC_fmMEQ4ji0euE7FgQj9RMA/featured) by Because She Can
 - [Hannah Kwaw](https://www.youtube.com/@hannahkwaw) by Hannah Kwaw
 - [Hascyber](https://www.youtube.com/@hascyber/about) by Stephen Hasford
+- [Jeffrey De-Graft Hinson](https://www.youtube.com/@Jdghinson) by Jeffrey De-Graft Hinson
 - [Mesrenyame Dogbe](https://www.youtube.com/@mesrenyamedogbe) by Abigail Mesrenyame Dogbe
+- [Raygan](https://www.youtube.com/@raygandesign) by Raygan
 - [TechChef Africa](https://www.youtube.com/@techchefafrica9323) by Nana Efua Benyaw
 - [The Tech Surf Podcast](https://www.youtube.com/channel/UCnKHvvuhvzex12lALNvmvOw) by Raymond Klutse
 - [Data with Princilla](https://www.youtube.com/@datawithprincilla) by Princilla Abena Koranteng
