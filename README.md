@@ -41,7 +41,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
 | [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |
-| [Women Tech Makers Accra](https://www.linkedin.com/company/wtmaccra/) | https://x.com/wtmaccra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor | |
+| [Women Tech Makers Accra](https://www.linkedin.com/company/wtmaccra/) | https://x.com/wtmaccra | |
 | [Ministry of Testing Accra](https://www.meetup.com/ministry-of-testing-accra/) | (https://twitter.com/motaccra)| |
 
 </details>
