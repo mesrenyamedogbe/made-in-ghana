@@ -216,6 +216,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  - [Samuel Agbesinyale](https://www.linkedin.com/in/samuel-agbesinyale-0ba58a119/) - Android Engineer (Architecture & UI)
  - [Sampson Ali Awenbolimi](https://www.linkedin.com/in/sampson-awenbolimi-122b15133/) - Android Engineer (Android, Flutter, Kotlin)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
+ - [Joshua Odoi](https://www.linkedin.com/in/profoj) - Mobile Developer(Android, React Native)
 </details>
 
 
@@ -269,7 +270,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
 - [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) - Software Engineer
 - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer
-
+- [Joshua Odoi](https://www.linkedin.com/in/profoj) - Full Stack Software Engineer
 
 </details>
 
@@ -305,8 +306,10 @@ If you are interested in contributing, kindly read the [contribution guideline](
  - [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) - Web Developer (ReactJS, PHP, NodeJS, Java)
  - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
+ - [Joshua Odoi](https://www.linkedin.com/in/profoj) - Fullstack Developer(ReactJs, Laravel, PHP, NodeJS , Wordpress , Framer)
  - [Stephen Ofori Yeboah](https://www.linkedin.com/in/stephen-ofori-yeboah-86140120b) - Software Developer(ASP.NET, C#, AWS)
  - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer (ReactJs, NextJs, NodeJs, GCP, AWS, Vercel)
+
 
 
 </details>
