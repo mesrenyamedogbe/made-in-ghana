@@ -36,11 +36,13 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
 | [Legaltech Lounge Community](https://www.linkedin.com/groups/9548159/)|
 | Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
+| Product Circle Africa |  |  |
 | [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
 | [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
-| [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |  
-|[Ministry of Testing Accra](https://www.meetup.com/ministry-of-testing-accra/) | (https://twitter.com/motaccra)| |
+| [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |
+| [Women Tech Makers Accra] | https://x.com/wtmaccra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor | |
+| [Ministry of Testing Accra](https://www.meetup.com/ministry-of-testing-accra/) | (https://twitter.com/motaccra)| |
 
 </details>
 
@@ -212,11 +214,11 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h2>Mobile Development</h2></summary>
 
  - [Bright Etornam Sunu](https://www.linkedin.com/in/etornam-sunu/) - Mobile Engineer(Flutter, Android,iOS)
+ - [Joshua Odoi](https://www.linkedin.com/in/profoj) - Mobile Developer(Android, React Native)
  - [Salami Gideon](https://www.linkedin.com/in/gideon-kofi-salami-44a206209) - Mobile Developer(Flutter, Kotlin)
  - [Samuel Agbesinyale](https://www.linkedin.com/in/samuel-agbesinyale-0ba58a119/) - Android Engineer (Architecture & UI)
  - [Sampson Ali Awenbolimi](https://www.linkedin.com/in/sampson-awenbolimi-122b15133/) - Android Engineer (Android, Flutter, Kotlin)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Mobile Developer(IOS, Flutter)
- - [Joshua Odoi](https://www.linkedin.com/in/profoj) - Mobile Developer(Android, React Native)
 </details>
 
 
@@ -267,10 +269,10 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Emmanuel Owusu](https://www.linkedin.com/in/owusuemmanuel/) - Senior Backend Engineer/Software Engineer/ DevOps
 - [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
 - [Joseph Abuanor](https://www.linkedin.com/in/joseph-abuanor/) - Software Engineer
+- [Joshua Odoi](https://www.linkedin.com/in/profoj) - Full Stack Software Engineer
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
 - [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) - Software Engineer
 - [Shareef Ali](https://bento.me/shareef) - Full Stack Software Engineer
-- [Joshua Odoi](https://www.linkedin.com/in/profoj) - Full Stack Software Engineer
 
 </details>
 
