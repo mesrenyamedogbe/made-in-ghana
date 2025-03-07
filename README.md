@@ -36,12 +36,12 @@ If you are interested in contributing, kindly read the [contribution guideline](
 | [Google Developer Group Accra](https://gdg.community.dev/gdg-accra/) | https://twitter.com/GDGAccra | |
 | [Legaltech Lounge Community](https://www.linkedin.com/groups/9548159/)|
 | Notion Ghana | https://twitter.com/NotionGH | https://surveyheart.com/form/638b25ce600ae3343540dbe2 |
-| Product Circle Africa |  |  |
+| Product Circle Africa |  | https://chat.whatsapp.com/CxMiTdAWdIM3zZE5WYP47S |
 | [PyData Ghana](https://www.meetup.com/pydata-ghana/) | https://twitter.com/PyDataGhana | https://t.me/PyGhana |
 | [Python Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyGhana | https://t.me/PyGhana |
 | [PyLadies Ghana](https://www.linkedin.com/company/pythonghana/?originalSubdomain=gh) | https://twitter.com/PyLadiesGhana | https://t.me/PyLadiesGhana/ |
 | [Women in Machine Learning and Data Science](https://www.meetup.com/accra-women-in-machine-learning-data-science/) | https://twitter.com/WiMLDS_Accra |
-| [Women Tech Makers Accra] | https://x.com/wtmaccra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor | |
+| [Women Tech Makers Accra](https://www.linkedin.com/company/wtmaccra/) | https://x.com/wtmaccra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor | |
 | [Ministry of Testing Accra](https://www.meetup.com/ministry-of-testing-accra/) | (https://twitter.com/motaccra)| |
 
 </details>
