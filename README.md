@@ -270,6 +270,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 - [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
 - [Emmanuel Owusu](https://www.linkedin.com/in/owusuemmanuel/) - Senior Backend Engineer/Software Engineer/ DevOps
 - [Emmanuella Ametsi](https://www.linkedin.com/in/emmanuella-ametsi/) - Software Engineer
+- [Felix Nii Ocquaye Ashong](https://www.linkedin.com/in/felix-nii-ocquaye-ashong-276880399/) - Full Stack Software Engineer
 - [Joseph Abuanor](https://www.linkedin.com/in/joseph-abuanor/) - Software Engineer
 - [Joshua Odoi](https://www.linkedin.com/in/profoj) - Full Stack Software Engineer
 - [Michael Sambou](https://www.linkedin.com/in/michael-sambou-7aa25a19b/) - Software Engineer
@@ -308,6 +309,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
  - [Jeffrey Mintah](https://www.linkedin.com/in/jeffrey-m-a846a2229) - Web Developer (Django, ReactJs)
  - [Asumadu Asamoah Godfred](https://beetle-tech.vercel.app/) - Data Science | Financial Analytics
+ - [Felix Nii Ocquaye Ashong](https://www.linkedin.com/in/felix-nii-ocquaye-ashong-276880399/) - Web Developer || I.T System Support Analyst || MIS Analyst
  - [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) - Web Developer (ReactJS, PHP, NodeJS, Java)
  - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
